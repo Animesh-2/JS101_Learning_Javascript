@@ -1,6 +1,6 @@
 //statement problem1
 
-let b=="Masai School";
+let b="Masai School";
 console.log(b);
 let a="A transformation in Education"
 console.log(a);
